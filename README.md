@@ -7,3 +7,5 @@ Machine Learning - K Means Clustering
 - Get data
 
 - Visualize data
+
+- Creating clusters
