@@ -14,3 +14,5 @@ Machine Learning - K Means Clustering
 - Data
 
 - Import libraries
+
+- Get the data
