@@ -9,3 +9,5 @@ Machine Learning - K Means Clustering
 - Visualize data
 
 - Creating clusters
+
+### 02-ML-K Means Clustering
