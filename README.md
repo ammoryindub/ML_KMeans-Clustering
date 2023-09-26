@@ -18,3 +18,5 @@ Machine Learning - K Means Clustering
 - Get the data
 
 - EDA
+
+- K Means Cluster creation
