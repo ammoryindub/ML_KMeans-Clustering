@@ -16,3 +16,5 @@ Machine Learning - K Means Clustering
 - Import libraries
 
 - Get the data
+
+- EDA
